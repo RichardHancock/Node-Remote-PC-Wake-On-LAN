@@ -1,0 +1,10 @@
+{
+  "name": "Node-Remote-PC-Wake-On-LAN",
+  "version": "0.1.0",
+  "description": "TBA",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.10.2",
+    "node-wol": "^0.1.1"
+  }
+}
